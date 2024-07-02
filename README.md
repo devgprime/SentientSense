@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 The SentientSense platform integrates advanced AI chatbot technology with blockchain-based tokenomics to enhance user engagement and feedback mechanisms. It enables users to provide feedback in a conversational manner and earn SenuCoin tokens as rewards, which can be redeemed for discounts, exclusive content, or other benefits. This platform aims to improve service quality through insightful user feedback and fosters a community-driven approach to product enhancement.
 
