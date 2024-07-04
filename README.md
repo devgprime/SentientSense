@@ -1,6 +1,6 @@
 # Introduction
 
-The SentientSense platform integrates advanced AI chatbot technology with blockchain-based tokenomics to enhance user engagement and feedback mechanisms. It enables users to provide feedback in a conversational manner and earn SenuCoin tokens as rewards, which can be redeemed for discounts, exclusive content, or other benefits. This platform aims to improve service quality through insightful user feedback and fosters a community-driven approach to product enhancement.
+The SentientSense platform integrates advanced AI chatbot technology with blockchain-based tokenomics to enhance user engagement and feedback mechanisms. It enables users to provide feedback conversationally and earn SenuCoin tokens as rewards, which can be redeemed for discounts, exclusive content, or other benefits. This platform aims to improve service quality through insightful user feedback and fosters a community-driven approach to product enhancement.
 
 # High-Level Architecture:
 
@@ -33,3 +33,8 @@ Feedback Storage: Stores feedback data on the blockchain for immutability and tr
 
 CI/CD Pipeline: Automates the deployment pipeline for seamless updates and maintenance of platform components.
 Monitoring and Logging: Utilizes tools like Prometheus, Grafana, and ELK Stack to monitor platform health, performance metrics, and user behavior for proactive management and optimization.
+
+
+
+
+![image](https://github.com/devgprime/SentientSense/assets/131144462/ddf1a9a1-3e70-426b-bec8-e1ae9922b90e)
